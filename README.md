@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shantanu-Tiwari
+- 👋 Hi, I’m Shantanu-Tiwari
 - 👀 I’m interested in Web development and Android development.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on open source projects based on web.
